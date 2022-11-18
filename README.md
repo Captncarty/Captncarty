@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/16watches" target="blank"><img src="https://img.shields.io/twitter/follow/16watches?logo=twitter&style=for-the-badge" alt="16watches" /></a> </p>
 
-- 🔭 I’m currently working on [simple_shell](https://github.com/Captncarty/simple_shell)
+- 🔭 I’m currently working on [Banking_System](https://github.com/Captncarty/Banking_System)
 
 - 🌱 I’m currently learning **C low-level programming**
 
