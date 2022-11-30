@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/16watches" target="blank"><img src="https://img.shields.io/twitter/follow/16watches?logo=twitter&style=for-the-badge" alt="16watches" /></a> </p>
 
-- 🔭 I’m currently working on [Electoral-System](https://github.com/Captncarty/Electoral-System)
+- 🔭 I’m currently working on [C-python, Python Script and Python](https://github.com/Captncarty/alx-higher_level_programming)
 
-- 🌱 I’m currently learning **C low-level programming**
+- 🌱 I’m currently learning **higher level programming**
 
 - 💬 Ask me about **Data structures, ML, Django and Data Analysis**
 
