@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [C-python, Python Script and Python](https://github.com/Captncarty/alx-higher_level_programming)
 
-- 🌱 I’m currently learning **higher level programming**
+- 🌱 I’m currently learning **Higher Level Programming**
 
 - 💬 Ask me about **Data structures, ML, Django and Data Analysis**
 
