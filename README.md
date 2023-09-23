@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/16watches" target="blank"><img src="https://img.shields.io/twitter/follow/16watches?logo=twitter&style=for-the-badge" alt="16watches" /></a> </p>
 
-- 🔭 I’m currently working on [JAVASCRIPT (BACKEND)](https://github.com/Captncarty/alx-backend-javascript)
+- 🔭 I’m currently working on [MacCAFE (WEBSTACK PORTFOLIO)]([https://github.com/Captncarty/alx-backend-javascript](https://github.com/Captncarty/MacCAFE))
 
 - 🌱 I’m currently learning **Higher Level Programming**
 
-- 💬 Ask me about **Data structures, ML, Django and Data Analysis**
+- 💬 Ask me about **Data structures, ML, Django, Data Analysis and Webstack**
 
 - 📫 How to reach me **kelvinmac7@outlook.com**
 
