@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/16watches" target="blank"><img src="https://img.shields.io/twitter/follow/16watches?logo=twitter&style=for-the-badge" alt="16watches" /></a> </p>
 
-- 🔭 I’m currently working on [MacCAFE (WEBSTACK PORTFOLIO)]([https://github.com/Captncarty/alx-backend-javascript](https://github.com/Captncarty/MacCAFE))
+- 🔭 I’m currently working on [MacCAFE (WEBSTACK PORTFOLIO)]((https://github.com/Captncarty/MacCAFE))
 
 - 🌱 I’m currently learning **Higher Level Programming**
 
