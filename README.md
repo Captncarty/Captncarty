@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelvin Maccarthy</h1>
-<h3 align="center">A Full Stack Developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
+<h3 align="center">A Full Stack Software Engineer from Nigeria</h3>
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captncarty&label=Profile%20views&color=0e75b6&style=flat" alt="captncarty" /> </p>
 
